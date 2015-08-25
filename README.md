@@ -1,11 +1,10 @@
-### nodejsmvc - NodeJS Model View Controller Framework
+## nodejsmvc - Route-Controller-View Framework for NodeJS
  * easy
  * simple
  * light
  * nice 
  * code sugar 
  
-###### Currently, the project is not in working order
 
 ### Usage
  file modules/blog/blog.js
