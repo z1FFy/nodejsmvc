@@ -5,10 +5,10 @@
  2015
  */
 
+require("./lib/conf.js");
+
 var server = require("./lib/server");
 var router = require("./lib/router");
 
-require("./lib/conf.js");
-require("./lib/core.js");
 
 server.start(router.route);

@@ -5,7 +5,6 @@ function main() {
 function welcome() {
 	var data = [];
 	data['head'] = 'coreJS';
-	res.data = data;
 	return res.view;
 }
 
